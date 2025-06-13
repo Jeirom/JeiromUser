@@ -22,9 +22,8 @@
 | [go-exercises](https://github.com/Jeirom/DjangoFree) | Практика и мелкие задания | Django |
 
 ## 📫 Связаться со мной
-- Telegram: [@hiiimm11] Даниил
+- Telegram: @hiiimm11
 - Email: jeiromkrizhanovskiyd@gmail.com
-- LinkedIn: [linkedin.com/in/userdev](https://linkedin.com/in/userdev)
   
 ## ⚡ Fun fact
 Я могу забыть, что написал вчера, но точно помню, где поставить `;` 😄
